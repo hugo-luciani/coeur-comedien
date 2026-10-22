@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Story+Script&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+  font-family:"Lora", serif;
+  font-size:17px;
+  margin:0px;
+  color:black;
+}
+h1{
+  font-family:"Story Script", sans-serif;
+  font-weight: bold;
+}
+
+h2{
+  font-weight:bold;
+}
+
+a{
+  text-decoration: none;
+}
+
+#pas-perdus img{
+  width:175px;
+}
